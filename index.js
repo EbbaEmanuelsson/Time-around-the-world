@@ -46,7 +46,7 @@ function updateCity(event){
       </div>
       <div class="time">${cityTime.format("HH:mm:ss")}</div>
     </div>
-  
+  <a href="/">Back to hompaige with all cities</a>
   `;
 }
 
